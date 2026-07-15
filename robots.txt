@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://8.129.88.118:9001/sitemap.xml
